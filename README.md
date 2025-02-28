@@ -1,4 +1,4 @@
-# APlicación de Gestión de Inventario de una Zapatería. 
+# Aplicación de Gestión de Inventario de una Zapatería. 
 
 ## Estructura del proyecto.
 
@@ -41,14 +41,16 @@ app/
 
 ## Apk de la aplicación.
 
-
+<a href="https://drive.google.com/file/d/1wLY1M95GSjWitr-U_ZTrxL-Fp4bwQa5z/view?usp=drive_link">
+Link de la apk
+</a>
 
 ## Capturas de pantalla de la aplicación.
 
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/main.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/agregar.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/editarinfo.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/editar.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/agregarItem.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/actualizacion.jpg" alt="">
+<img src="https://github.com/CesarAbraham0428/crudPersonalizadoKotlin/blob/main/assets/main2.jpg" alt="">
