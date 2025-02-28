@@ -47,7 +47,7 @@ class DetailActivity : AppCompatActivity() {
         descriptionText.text = description
         priceText.text = "Precio: $price"
         categoryText.text = "Categoría: $category"
-        stockText.text = "Stock: $stock"
+        stockText.text = "Cantidad en Almacen: $stock"
 
         // Dentro de onCreate()
         Glide.with(this)

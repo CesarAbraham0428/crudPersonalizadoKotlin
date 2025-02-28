@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F5F5">
+    android:background="#000000">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -34,7 +34,7 @@
                     android:text="Información del Producto"
                     android:textSize="20sp"
                     android:textStyle="bold"
-                    android:textColor="#333333"
+                    android:textColor="#A073F0"
                     android:layout_marginBottom="16dp" />
 
                 <com.google.android.material.textfield.TextInputLayout
@@ -108,7 +108,7 @@
                         android:id="@+id/editTextStock"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Stock"
+                        android:hint="Cantidad en Almacen"
                         android:inputType="number"
                         android:padding="16dp"/>
                 </com.google.android.material.textfield.TextInputLayout>

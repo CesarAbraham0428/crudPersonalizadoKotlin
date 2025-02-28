@@ -35,7 +35,7 @@ class ItemAdapter(
         holder.nameText.text = item.name
         holder.priceText.text = "Precio: $${item.price}"
         holder.categoryText.text = "Categoría: ${item.category}"
-        holder.stockText.text = "Stock: ${item.stock}"
+        holder.stockText.text = "Cantidad en Almacen: ${item.stock}"
 
         // Cargar imagen con Glide
         Glide.with(holder.itemView.context)

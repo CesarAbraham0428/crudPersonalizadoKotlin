@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F5F5">
+    android:background="#000000">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -55,7 +55,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="24sp"
                     android:textStyle="bold"
-                    android:textColor="#333333"
+                    android:textColor="#A47F58"
                     android:text="Nombre del producto" />
 
                 <TextView
@@ -63,7 +63,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
-                    android:textColor="#666666"
+                    android:textColor="#D3CECE"
                     android:text="Descripción"
                     android:layout_marginTop="12dp" />
 
@@ -88,7 +88,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
-                    android:textColor="#666666"
+                    android:textColor="#E0E0E0"
                     android:text="Categoría"
                     android:layout_marginTop="8dp" />
 
@@ -97,8 +97,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
-                    android:textColor="#666666"
-                    android:text="Stock"
+                    android:textColor="#E0E0E0"
+                    android:text="Cantidad en Almacen"
                     android:layout_marginTop="8dp" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>

@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
 
         val toolbar = findViewById<Toolbar>(R.id.toolbar)
         setSupportActionBar(toolbar)
-        supportActionBar?.title = "Inventario"
+        supportActionBar?.title = "Inventario Zapatería Abraham"
 
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         val searchView = findViewById<androidx.appcompat.widget.SearchView>(R.id.searchView)
